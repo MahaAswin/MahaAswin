@@ -2,9 +2,8 @@
 <h3 align="center">🚀 Full Stack Developer | MERN + Spring Boot | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;Spring+Boot+Backend+Developer;AI+Builder+%7C+Hackathon+Finalist&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Spring+Boot+Backend+Developer;MERN+Stack+Developer;AI+Builder+%7C+Hackathon+Finalist&center=true&width=500&height=45">
 </p>
-
 ---
 
 ## 🧠 About Me
