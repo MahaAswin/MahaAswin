@@ -78,14 +78,14 @@
 
 ---
 
-## 📊 Coding Stats
+## 📊 Coding Status
 
 - 🔥 LeetCode: **250+ Problems | Rating: 1583**
 - ⚡ Skillrack: **900+ Problems | 6 Certificates**
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
@@ -93,12 +93,22 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:mahaaswin.sb2024it@sece.ac.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/maha-aswin-s-b-288b43313/">
+    <img src="https://img.shields.io/badge/LinkedIn-Maha%20Aswin%20S%20B-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:mahaaswinsb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mahaaswinsb%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
