@@ -1,120 +1,222 @@
 <h1 align="center">Hi 👋, I'm Maha Aswin S B</h1>
-<h3 align="center">🚀 Full Stack Developer | Spring Boot | MERN | AI Enthusiast</h3>
+
+<h3 align="center">🚀 Full Stack Developer | Java & Spring Boot Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Spring+Boot+Backend+Developer;MERN+Stack+Developer;AI+Builder+%7C+Hackathon+Finalist&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Backend+Developer;MERN+Stack+Developer;AI+Application+Builder;Hackathon+Finalist&center=true&width=600&height=45">
+</p>
+
+<p align="center">
+  <a href="https://github.com/MahaAswin">
+    <img src="https://komarev.com/ghpvc/?username=MahaAswin&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech IT @ Sri Eshwar College of Engineering  
-- 💻 Passionate about **Full Stack Development & AI Systems**  
-- ⚡ Love building **real-world scalable applications**  
-- 🏆 Hackathon Finalist (Top 10 & Top 15 National Level)  
-- 🔥 Solved **300+ DSA problems (LeetCode)** & **900+ Skillrack**  
+🎓 B.Tech Information Technology Student at Sri Eshwar College of Engineering
+
+💻 Passionate about Full Stack Development, Backend Engineering and AI Applications
+
+🚀 Building scalable applications using Spring Boot, React and MERN Stack
+
+🏆 National Level Hackathon Finalist
+
+🔥 Solved 300+ DSA Problems on LeetCode and 900+ Problems on Skillrack
+
+🤝 Love collaborating, learning new technologies and solving real-world problems
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js&theme=dark" />
-</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript&theme=dark" />
+</p>
 
 ### 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
-</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+</p>
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&theme=dark" />
-</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi&theme=dark" />
+</p>
 
 ### 🗄️ Database
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark" />
+</p>
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" />
 </p>
 
 ---
 
-### 🧰 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode&theme=dark" />
-</p>
+## 🚀 Featured Projects
+
+### 🍔 QuickBite – Food Ordering System
+
+**Tech Stack:** React.js, Spring Boot, PostgreSQL, JWT, Spring Security
+
+* Secure JWT Authentication and Role-Based Access Control
+* Food Management and Order Tracking System
+* REST API based Architecture
+* Full Stack Food Ordering Application
 
 ---
 
-## 🚀 Projects
+### 🎯 Arivon – AI-Powered Career Intelligence Platform
 
-### 🌾 AI Farmer Assistant (Ongoing)
-- Voice-enabled multilingual chatbot (Tamil + English)
-- Built with **React + FastAPI + Gemini API**
-- 🎯 Helps farmers with crop & agriculture queries  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS
+
+* ATS Resume Analysis
+* Skill Gap Detection
+* Job Matching using Adzuna API
+* Industry News Aggregation using NewsAPI
+* Recruiter Dashboard for Talent Discovery
+
+---
+
+### 🎒 PackNgo – Tour Package Management System
+
+**Tech Stack:** React.js, Spring Boot, PostgreSQL, JWT, Spring Security
+
+* Multi-Vendor Tour Package Booking Platform
+* Role-Based Authentication
+* Vendor Approval Workflow
+* Package Management and Booking Tracking
+* Secure REST APIs
 
 ---
 
 ### 🤖 JARVIS – AI Voice Assistant
-- Full-stack AI assistant with **speech-to-text & text-to-speech**
-- Integrated **Gemini API + Faster-Whisper + gTTS**
-- 🎙️ Real-time voice interaction system  
+
+**Tech Stack:** React, FastAPI, Python, Gemini API, Faster-Whisper, gTTS
+
+* Real-Time Speech-to-Text
+* AI-Powered Conversational Assistant
+* Text-to-Speech Integration
+* Interactive Voice-Based User Experience
 
 ---
 
-### 🎵 Music Playlist Organizer
-- MERN-based app for uploading & organizing songs  
-- JWT authentication + playlist management  
-- 🎧 Clean UI for music handling  
+### 🎵 Musify – Music Playlist Organizer
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT
+
+* MP3 Upload and Playlist Management
+* Artist-Wise Categorization
+* Secure Authentication System
+* Responsive User Interface
+
+---
+
+## 💼 Internship Experience
+
+### ☕ RAMPeX – Java Full Stack Internship
+
+* Developed QuickBite Food Ordering System
+* Worked with React.js, Spring Boot, PostgreSQL and JWT Authentication
+* Implemented Role-Based Access Control and Secure APIs
+
+### 💻 iGenuine Solutions Pvt. Ltd – MERN Stack Internship
+
+* Developed Musify Music Playlist Organizer
+* Implemented Playlist Management Features
+* Worked with MERN Stack and JWT Authentication
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Top 10 – Origin National Hackathon  
-- 🥇 Top 15 – CodeSprint 2026  
-- 🎯 Organized 75+ participant tech event  
-- 💡 Participated in multiple GenAI & Web Hackathons  
+🥇 Final Round Shortlisted – India Innovates 2026
+
+🥇 Top 10 – Origin National Level Hackathon
+
+🥇 Top 15 – CodeSprint 2026 National Level Hackathon
+
+🎯 Organized "Bounty Hunter" Event with 75+ Participants
+
+🤖 Participated in Multiple AI and Web Development Hackathons
 
 ---
 
-## 📊 Coding Status
+## 📊 Coding Profiles
 
-- 🔥 LeetCode: **250+ Problems | Rating: 1583**
-- ⚡ Skillrack: **900+ Problems | 6 Certificates**
+### LeetCode
+
+🔥 Problems Solved: **300+**
+
+⭐ Maximum Rating: **1583**
+
+### Skillrack
+
+⚡ Problems Solved: **900+**
+
+🏅 Certificates Earned: **6**
 
 ---
 
-## 📈 GitHub Status
+## 📜 Certifications
+
+* NPTEL Certified in Design Thinking – A Primer (IIT Madras)
+* Java Programming – Infosys
+* Introduction to Generative AI – IBM SkillBuild
+* Mastering Data Structures & Algorithms using C and C++
+* Python Programming Masterclass
+* Essential Canva for Graphic Design
+* C++ Spoken Tutorial Certification – IIT Bombay
+* C Spoken Tutorial Certification – IIT Bombay
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahaAswin&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahaAswin&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahaAswin&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MahaAswin&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaAswin&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maha-aswin-s-b-288b43313/">
     <img src="https://img.shields.io/badge/LinkedIn-Maha%20Aswin%20S%20B-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:mahaaswinsb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mahaaswinsb%40gmail.com-red?style=for-the-badge&logo=gmail">
+
+  <a href="mailto:mahaaswin.sb2024it@sece.ac.in">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://github.com/MahaAswin">
+    <img src="https://img.shields.io/badge/GitHub-MahaAswin-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-## 💡 Quote
+## 💡 Motto
 
-> "Code. Build. Fail. Learn. Repeat. 🚀"
+> "Code. Build. Learn. Improve. Repeat. 🚀"
+
+<p align="center">
+  ⭐ If you like my work, consider following me and checking out my repositories!
+</p>
