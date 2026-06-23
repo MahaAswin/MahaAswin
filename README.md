@@ -13,7 +13,7 @@
 - 💻 Passionate about **Full Stack Development & AI Systems**  
 - ⚡ Love building **real-world scalable applications**  
 - 🏆 Hackathon Finalist (Top 10 & Top 15 National Level)  
-- 🔥 Solved **250+ DSA problems (LeetCode)** & **900+ Skillrack**  
+- 🔥 Solved **300+ DSA problems (LeetCode)** & **900+ Skillrack**  
 
 ---
 
