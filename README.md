@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Backend+Developer;MERN+Stack+Developer;AI+Application+Builder;Hackathon+Finalist&center=true&width=600&height=45">
 </p>
 
-<p align="center">
-  <a href="https://github.com/MahaAswin">
-    <img src="https://komarev.com/ghpvc/?username=MahaAswin&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 About Me
