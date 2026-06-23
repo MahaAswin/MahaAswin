@@ -10,17 +10,12 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech Information Technology Student at Sri Eshwar College of Engineering
-
-💻 Passionate about Full Stack Development, Backend Engineering and AI Applications
-
-🚀 Building scalable applications using Spring Boot, React and MERN Stack
-
-🏆 National Level Hackathon Finalist
-
-🔥 Solved 300+ DSA Problems on LeetCode and 900+ Problems on Skillrack
-
-🤝 Love collaborating, learning new technologies and solving real-world problems
+* 🎓 **B.Tech Information Technology** @ Sri Eshwar College of Engineering
+* 💻 **Full Stack Developer** specializing in Spring Boot and MERN Stack
+* 🚀 Passionate about building scalable web applications and AI-powered solutions
+* 🏆 National-Level Hackathon Finalist
+* 🔥 **300+ LeetCode** & **900+ Skillrack** Problems Solved
+* 🌱 Continuously learning Backend Systems, System Design, and Modern Web Technologies
 
 ---
 
